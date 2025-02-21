@@ -53,10 +53,9 @@ Create a requirements.txt with:
 Open http://localhost:8000 in your browser.
 
 ## Usage
-
-    Connect: Enter optional tags (comma-separated) and click "Connect" to find a partner.
-    Chat: Once paired, type messages and press "Send". Messages appear via polling.
-    Disconnect: Click "Disconnect" to end the session. Auto-reconnect is enabled by default.
+- Connect: Enter optional tags (comma-separated) and click "Connect" to find a partner.
+- Chat: Once paired, type messages and press "Send". Messages appear via polling.
+- Disconnect: Click "Disconnect" to end the session. Auto-reconnect is enabled by default.
     
 ## Credits
 
