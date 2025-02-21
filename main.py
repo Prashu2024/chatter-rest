@@ -7,6 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Dict, Optional
 import random
+import uvicorn 
 
 app = FastAPI()
 
@@ -150,3 +151,6 @@ async def disconnect_endpoint(user_id: int):
 
     logging.info(f"User {user_id} disconnected.")
     return {"status": "disconnected"}
+   
+if __name__ == "__main__":
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
