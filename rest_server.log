@@ -1,0 +1,5 @@
+2025-02-21 16:22:15,322 - INFO - User 586798 connected. IP: 127.0.0.1, Location: Unknown, Unknown, Unknown, Browser: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0
+2025-02-21 16:22:44,581 - INFO - User 54907 connected. IP: 127.0.0.1, Location: Unknown, Unknown, Unknown, Browser: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0
+2025-02-21 16:22:44,581 - INFO - User 54907 paired with 586798. Common Tags: []
+2025-02-21 16:22:48,361 - INFO - Message from 54907 to 586798: hey
+2025-02-21 16:22:56,277 - INFO - Message from 586798 to 54907: yup?
